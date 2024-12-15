@@ -4,8 +4,6 @@ Nearby: Um aplicativo mobile que funciona como um clube de benefícios, permitin
 
 ## Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
-
 * Biblioteca [React Native](https://reactnative.dev/)
 * Framework [Expo](https://expo.dev/)
 * Linguagem TypeScript
